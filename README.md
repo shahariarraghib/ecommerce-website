@@ -15,13 +15,7 @@ This project is a web-based dashboard application that provides an overview of v
 
 To install this project, follow these steps:
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/dashboard-project.git
-    ```
-
-2. Navigate to the project directory and install dependencies:
+1. Navigate to the project directory and install dependencies:
 
     ```bash
     client
@@ -51,3 +45,6 @@ Use the following credentials to access the shop:
 
 - **Email:** `asdf@gmail.com`
 - **Password:** `12345678`
+
+
+![e-commerce](https://github.com/shahariarraghib/ecommerce-website/assets/58640846/8bd99842-3446-4cf3-ab81-dc26b3471b85)
