@@ -11,39 +11,36 @@ This project is a web-based dashboard application that provides an overview of v
 - Real-time updates
 - Customizable widgets
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- You have installed [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/get-npm).
-- You have a `gmail` account to configure email notifications (use environment variables to store credentials securely).
-
 ## Installation
 
 To install this project, follow these steps:
 
 1. Clone the repository:
 
-    ```client 
+    ```bash
+    git clone https://github.com/your-username/dashboard-project.git
+    ```
+
+2. Navigate to the project directory and install dependencies:
+
+    ```bash
+    cd client
     npm install
     ```
 
 ## Running the app
 
-     ```client 
-   npm run start
+To run the application, follow these steps:
+
+1. Open a terminal in the client directory and run:
+
+    ```bash
+    npm run start
     ```
 
 ## Access Admin Panel
 
-    ```Gmail
-    admin@gmail.com
-    ```
-    ```Password
-    123456789
-    ```
+Use the following credentials to access the admin panel:
 
- 
-
-
-
+- **Email:** `admin@gmail.com`
+- **Password:** `123456789`
