@@ -24,7 +24,7 @@ To install this project, follow these steps:
 2. Navigate to the project directory and install dependencies:
 
     ```bash
-    cd client
+    client
     npm install
     ```
 
@@ -44,3 +44,10 @@ Use the following credentials to access the admin panel:
 
 - **Email:** `admin@gmail.com`
 - **Password:** `123456789`
+  
+## As a user
+
+Use the following credentials to access the shop:
+
+- **Email:** `asdf@gmail.com`
+- **Password:** `12345678`
