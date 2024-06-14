@@ -36,8 +36,6 @@ To install this project, follow these steps:
 
 ## Access Admin Panel
 
-1. Create a `.env` file in the root of the project and add the following configuration:
-
     ```Gmail
     admin@gmail.com
     ```
